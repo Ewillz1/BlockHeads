@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5a2dd7387239adcb865823d064e03080466041b7",
+  "SCAN_LINK": "https://songbird-explorer.flare.network/tx/0x65230772d11deb2cfb8a7af79be86b68e9729a5754f2ec285c6f09e7f8188c48/token-transfers",
+  "NETWORK": {
+    "NAME": "Songbird",
+    "SYMBOL": "SGB",
+    "ID": 19
+  },
+  "NFT_NAME": "Block Heads",
+  "SYMBOL": "BHNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "SparklesNFT",
+  "MARKETPLACE_LINK": "https://sparklesnft.com/",
+  "SHOW_BACKGROUND": true
+}
